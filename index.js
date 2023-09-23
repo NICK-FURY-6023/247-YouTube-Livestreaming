@@ -3,7 +3,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('Your Live Stream Is Online Now!')
+  res.send('🟢 Your Live Stream Is Online Now!')
 })
 
 app.listen(port, () => {
@@ -20,3 +20,4 @@ var yourscript = exec('sh live.sh',
             }
         });
 
+// you can use replit or other hosting service 
