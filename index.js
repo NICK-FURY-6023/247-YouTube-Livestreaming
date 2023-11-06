@@ -21,3 +21,6 @@ var yourscript = exec('sh live.sh',
         });
 
 // you can use replit or other hosting service 
+
+
+// i can refer you best hosting for this https://bot-hosting.net
