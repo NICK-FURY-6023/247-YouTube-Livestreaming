@@ -5,6 +5,8 @@ YouTube Live stream your MP3 audio file 247 free
 
 # change your video file , mp3 audio file link & your YouTube stream key 
 
+# • ⚠️ If you have a good hosting then it's for you 
+
 # install npm install
 # start node .
 
@@ -32,7 +34,7 @@ With our code, the world becomes your stage, and your audience can tune in whene
 
 ---
 # 
-<h2 align="left">Hi 👋! My name is ₦ł₵₭  ₣ɄⱤɎ and I'm  from INDIA </h2>
+<h2 align="left">Hi 👋! My name is ₦ł₵₭  ₣ɄⱤɎ and I'm  from Bharat</h2>
 
 
 ###
